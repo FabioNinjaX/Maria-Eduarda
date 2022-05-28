@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Lovers+Quarrel&display=swap');
+body{
+    background-color: #F25755;
+}
+main{
+    background-color: white;
+    text-align: center;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1#h1f{
+    font-family: Lovers Quarrel,sans-serif;
+    font-size: xx-large;
+}
